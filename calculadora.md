@@ -26,3 +26,5 @@ Calculadora fake
 ---
 
 ### Notas: Las funciones son fakes
+
+-Modificaciones
